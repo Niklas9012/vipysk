@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+    font-size: 30px;
+    padding: 250px;
+    text-decoration: none;
+}
+.link-nav{
+    font-size: 20px;
+   padding: 10px;
+    border: 5px solid blue;
+    text-decoration: none;
+    background-color: yellow;
+}
+nav{
+    margin: 30px;
+    
+}
+header{
+    background-color: rgb(15, 248, 15);
+}
+h1{
+    padding: 60px;
+    text-align: center;
+}
